@@ -22,6 +22,9 @@ body {
   min-width: 500px;
   width: 100%;
 }
+.map {
+  margin-right: 250px;
+}
 @media only screen and (max-width: 500px) {
   .logotype {
     min-width: auto;
@@ -47,7 +50,7 @@ svg {
   align-items: center;
   color: #765F56;
 }
-.mapx {
-  width: 100%;
-  height: 450px;
+.map {
+  width: auto;
+  margin-right: auto;
 }
